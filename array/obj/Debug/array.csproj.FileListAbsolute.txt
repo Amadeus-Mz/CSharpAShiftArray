@@ -1,0 +1,10 @@
+C:\Users\Abiz-Pakorn\source\repos\array\array\bin\Debug\array.exe.config
+C:\Users\Abiz-Pakorn\source\repos\array\array\bin\Debug\array.exe
+C:\Users\Abiz-Pakorn\source\repos\array\array\bin\Debug\array.pdb
+C:\Users\Abiz-Pakorn\source\repos\array\array\obj\Debug\array.csprojAssemblyReference.cache
+C:\Users\Abiz-Pakorn\source\repos\array\array\obj\Debug\array.Form1.resources
+C:\Users\Abiz-Pakorn\source\repos\array\array\obj\Debug\array.Properties.Resources.resources
+C:\Users\Abiz-Pakorn\source\repos\array\array\obj\Debug\array.csproj.GenerateResource.cache
+C:\Users\Abiz-Pakorn\source\repos\array\array\obj\Debug\array.csproj.CoreCompileInputs.cache
+C:\Users\Abiz-Pakorn\source\repos\array\array\obj\Debug\array.exe
+C:\Users\Abiz-Pakorn\source\repos\array\array\obj\Debug\array.pdb
